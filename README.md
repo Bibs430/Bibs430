@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bibs430
 - 👀 I’m interested in a new career in IT. 
-- 🌱 I’m currently learning "A+" through free online resources. working my Always looking for help/advice.
+- 🌱 I’m currently learning "A+" through free online resources. Always looking for help/advice.
 - 📫 How to reach me ...
 
 <!---
